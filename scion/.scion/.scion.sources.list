@@ -1,0 +1,11 @@
+#shelf      scion                       version         depot location                                                                  scion location in depot
+#
+lepton      original::tree              master          https://github.com/lepton-distribution/lepton-original-tree.scions.git
+lepton      private::xgui               master          https://bitbucket.org/phlb/lepton-xgui.scions.git                               private/xgui
+#
+nuodio      hybrid.tube::prototyp.1     master          https://github.com/lepton-phlb/nuodio.scion.git                                 bsp/prototyp.1
+nuodio      hybrid.tube::base           master          https://github.com/lepton-phlb/nuodio.scion.git                                 executive/base
+nuodio      hybrid.tube::binaries       master          https://github.com/lepton-phlb/nuodio.scion.git                                 binaries
+#
+lepton      building                    *               $SCION_ROOTSTOCK/depots/lepton/building 
+lepton      building                    *               $SCION_ROOTSTOCK/depots/generation/building
