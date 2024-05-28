@@ -7,5 +7,4 @@ nuodio      hybrid.tube::prototyp.1     master          https://github.com/lepto
 nuodio      hybrid.tube::base           master          https://github.com/lepton-phlb/nuodio.scion.git                                 executive/base
 nuodio      hybrid.tube::binaries       master          https://github.com/lepton-phlb/nuodio.scion.git                                 binaries
 #
-lepton      building                    *               $SCION_ROOTSTOCK/depots/lepton/building 
 lepton      building                    *               $SCION_ROOTSTOCK/depots/generation/building
