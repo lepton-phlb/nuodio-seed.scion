@@ -6,5 +6,6 @@ lepton      private::xgui               master          https://bitbucket.org/ph
 nuodio      hybrid.tube::prototyp.1     master          https://github.com/lepton-phlb/nuodio.scion.git                                 bsp/prototyp.1
 nuodio      hybrid.tube::base           master          https://github.com/lepton-phlb/nuodio.scion.git                                 executive/base
 nuodio      hybrid.tube::binaries       master          https://github.com/lepton-phlb/nuodio.scion.git                                 binaries
+nuodio 		hybrid.tube::tools          master          https://github.com/lepton-phlb/nuodio.scion.git                                 tools
 #
 lepton      building                    *               $SCION_ROOTSTOCK/depots/generation/building
